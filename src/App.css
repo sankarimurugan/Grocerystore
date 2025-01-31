@@ -1,0 +1,21 @@
+.cont {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.textcont {
+  height: 70vh;
+  width: 70vh;
+  align-self: center;
+  background-color: #ddd;
+  overflow: scroll;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+.formlist {
+  border: solid 1px #000;
+}
