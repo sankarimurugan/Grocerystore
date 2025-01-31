@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Grocerystore/static/css/main.075201b9.css",
+    "main.js": "/Grocerystore/static/js/main.d3707875.js",
+    "static/js/453.0a1c47ab.chunk.js": "/Grocerystore/static/js/453.0a1c47ab.chunk.js",
+    "static/media/about-img.jpg": "/Grocerystore/static/media/about-img.8478623e00681d806893.jpg",
+    "static/media/pic-4.png": "/Grocerystore/static/media/pic-4.b9d9b2d2102a38f4a5cf.png",
+    "static/media/pic-1.png": "/Grocerystore/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/blog-3.jpg": "/Grocerystore/static/media/blog-3.f1510b42ab94b83d3e2f.jpg",
+    "static/media/pic-2.png": "/Grocerystore/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/pic-6.png": "/Grocerystore/static/media/pic-6.9cf72fe3946e3ea67a61.png",
+    "static/media/pic-5.png": "/Grocerystore/static/media/pic-5.09f3ea6305729de3884f.png",
+    "static/media/home-img-2.png": "/Grocerystore/static/media/home-img-2.a0038f648659936526ff.png",
+    "static/media/pic-3.png": "/Grocerystore/static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/home-img-3.png": "/Grocerystore/static/media/home-img-3.95a5886c833143947810.png",
+    "static/media/heading-bg.jpg": "/Grocerystore/static/media/heading-bg.b794bc980fa26b814e3d.jpg",
+    "static/media/blog-1.jpg": "/Grocerystore/static/media/blog-1.0311b05e4cc18e5e4aad.jpg",
+    "static/media/blog-4.jpg": "/Grocerystore/static/media/blog-4.17643cbb61155804c255.jpg",
+    "static/media/home-img-1.png": "/Grocerystore/static/media/home-img-1.a2acf3d93ccaa16a64fb.png",
+    "static/media/blog-2.jpg": "/Grocerystore/static/media/blog-2.9f09f5aa1b4da5757a62.jpg",
+    "static/media/gallery-img-3.jpg": "/Grocerystore/static/media/gallery-img-3.8f60e1d9416e41ec58ab.jpg",
+    "static/media/gallery-img-4.jpg": "/Grocerystore/static/media/gallery-img-4.b09629dd6c371dac40f6.jpg",
+    "static/media/gallery-img-2.jpg": "/Grocerystore/static/media/gallery-img-2.d3565ada9e68c5658daf.jpg",
+    "static/media/gallery-img-6.jpg": "/Grocerystore/static/media/gallery-img-6.639f64db9b7fbf7e4598.jpg",
+    "static/media/gallery-img-5.jpg": "/Grocerystore/static/media/gallery-img-5.e4d0d20e29342efbd275.jpg",
+    "static/media/grosery.png": "/Grocerystore/static/media/grosery.91b529923223061d0f7a.png",
+    "static/media/gallery-img-1.jpg": "/Grocerystore/static/media/gallery-img-1.2458ab0933e68afea2fb.jpg",
+    "static/media/home-bg.jpg": "/Grocerystore/static/media/home-bg.724bf7349a3d13c4bdd5.jpg",
+    "index.html": "/Grocerystore/index.html",
+    "main.075201b9.css.map": "/Grocerystore/static/css/main.075201b9.css.map",
+    "main.d3707875.js.map": "/Grocerystore/static/js/main.d3707875.js.map",
+    "453.0a1c47ab.chunk.js.map": "/Grocerystore/static/js/453.0a1c47ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075201b9.css",
+    "static/js/main.d3707875.js"
+  ]
+}
